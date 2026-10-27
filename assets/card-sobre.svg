@@ -1,0 +1,37 @@
+<svg fill="none" width="800" height="190" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradiente de Fundo -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1e2e" />
+      <stop offset="100%" stop-color="#11111b" />
+    </linearGradient>
+
+    <!-- Gradiente do Texto do Título -->
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#cba6f7" />
+      <stop offset="100%" stop-color="#89b4fa" />
+    </linearGradient>
+  </defs>
+
+  <!-- Retângulo do Fundo (com borda arredondada de rx="16") -->
+  <rect width="100%" height="100%" rx="16" fill="url(#bgGrad)" stroke="#313244" stroke-width="2" />
+
+  <!-- Detalhes Estéticos (Bolinhas de luz suave ao fundo) -->
+  <circle cx="720" cy="30" r="90" fill="#cba6f7" opacity="0.12" />
+  <circle cx="80" cy="160" r="100" fill="#89b4fa" opacity="0.1" />
+
+  <!-- Título Principal -->
+  <text x="40" y="65" font-family="&#39;Segoe UI&#39;, Ubuntu, Roboto, sans-serif" font-weight="bold" font-size="26" fill="url(#titleGrad)">
+    ☕ Desenvolvedor Backend & Estudante de ADS
+  </text>
+
+  <!-- Linha de Texto 1 -->
+  <text x="40" y="108" font-family="&#39;Segoe UI&#39;, Ubuntu, Roboto, sans-serif" font-size="16" fill="#cdd6f4">
+    Especializando em Java, Spring Boot e construção de APIs RESTful escaláveis.
+  </text>
+
+  <!-- Linha de Texto 2 / Frase -->
+  <text x="40" y="140" font-family="&#39;Segoe UI&#39;, Ubuntu, Roboto, sans-serif" font-size="14" font-style="italic" fill="#a6adc8">
+    "A simplicidade é o pré-requisito para a confiabilidade." — Edsger W. Dijkstra
+  </text>
+</svg>
