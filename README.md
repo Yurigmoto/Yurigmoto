@@ -80,9 +80,8 @@ Likes: RPG, Game Design, Solving Logic Puzzles, Clean Code</code></pre>
 
 <!-- CONTATOS -->
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:yuri.boechat.02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Yurigmoto"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <div align="center">
