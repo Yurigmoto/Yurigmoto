@@ -2,14 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800d0d&height=120&section=header"/>
 </div>
 
-<!-- TYPING SVG - FRASES DE TOPO -->
+<!-- TYPING SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=28&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=%E2%9C%A6+%5Berror%5D+404%3A+emotions+not+found+%E2%9C%A6;%E2%9C%A6+%3E_+status%3A+dead_inside+%E2%9C%A6" alt="Typing SVG" />
 </div>
 
 <br>
 
-<!-- SEÇÃO 1: ABOUT ME -->
+<!-- ABOUT ME -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=About+Me+(%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B)" alt="Typing SVG" />
 </div>
@@ -33,8 +33,7 @@ SideQuests: Clean Code, Software Architecture, System Design
 Languages: Java, SQL, HTML/CSS, JavaScript
 Frameworks: Spring Boot, Thymeleaf, Bootstrap 5
 Databases: PostgreSQL, H2 Database
-Tools: Git, GitHub, Gradle, IntelliJ IDEA
-Likes: RPG, Game Design, Solving Logic Puzzles, Clean Code</code></pre>
+Tools: Git, GitHub, Gradle </code></pre>
 
 </td>
 
@@ -43,7 +42,7 @@ Likes: RPG, Game Design, Solving Logic Puzzles, Clean Code</code></pre>
 
 <p align="center">˚⛧°.⋆༺♱༻⋆.°⛧</p>
 
-<!-- SEÇÃO 2: TECH STACK (SEGUNDO QUADRADO COM IMAGEM + BADGES) -->
+<!-- TECH STACK  -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=Tech+Stack+(%E6%8A%80%E8%A1%93)" alt="Typing SVG" />
 </div>
@@ -52,13 +51,12 @@ Likes: RPG, Game Design, Solving Logic Puzzles, Clean Code</code></pre>
 <tr>
 
 <td width="220" align="center" valign="middle">
-  <!-- Imagem do segundo quadrado (pode trocar pelo nome de outra imagem da sua pasta) -->
   <img src="./images/bmth-band-logo-1.webp" width="200" style="border-radius:10px;"/>
 </td>
 
 <td valign="middle" align="center">
 
-  <!-- BADGES DE TECNOLOGIAS DENTRO DO QUADRADO -->
+  <!-- BADGES DE TECNOLOGIAS -->
   <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
