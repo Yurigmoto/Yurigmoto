@@ -42,7 +42,7 @@ Tools: Git, GitHub, Gradle </code></pre>
 
 <p align="center">˚⛧°.⋆༺♱༻⋆.°⛧</p>
 
-<!-- TECH STACK  -->
+<!-- TECH STACK (BADGES NA ESQUERDA, IMAGEM NA DIREITA) -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=Tech+Stack+(%E6%8A%80%E8%A1%93)" alt="Typing SVG" />
 </div>
@@ -50,13 +50,9 @@ Tools: Git, GitHub, Gradle </code></pre>
 <table align="center" width="700">
 <tr>
 
-<td width="220" align="center" valign="middle">
-  <img src="./images/bmth-band-logo-1.webp" width="200" style="border-radius:10px;"/>
-</td>
-
 <td valign="middle" align="center">
 
-  <!-- BADGES DE TECNOLOGIAS -->
+  <!-- BADGES DE TECNOLOGIAS (ESQUERDA) -->
   <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -69,6 +65,10 @@ Tools: Git, GitHub, Gradle </code></pre>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </p>
 
+</td>
+
+<td width="220" align="center" valign="middle">
+  <img src="./images/bmth-band-logo-1.webp" width="200" style="border-radius:10px;"/>
 </td>
 
 </tr>
