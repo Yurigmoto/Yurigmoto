@@ -24,7 +24,7 @@
 <td valign="top">
 
 <p align="center">ᶠᶸᶜᵏᵧₒᵤ!</p>
-<pre><code>Profile ver. 1.0: 𖤐 ⬛🩶⬜🟪 𖤐
+<pre><code>Profile ver. 1.0: 𖤐
 ------------------------------------------------------------------------
 Name: Yuri Souza
 Role: Backend Developer & ADS Student
